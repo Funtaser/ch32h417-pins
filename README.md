@@ -1,6 +1,6 @@
 # CH32H417 引脚配置
 
-一个类似 STM32CubeMX 引脚页的网页工具，用于沁恒 **CH32H417QEU6（QFN128）** 的引脚复用规划。作者：徐靖晨（[Funtaser](https://github.com/Funtaser)），中北大学 Epoch 竞技机器人战队。
+一个类似 STM32CubeMX 引脚页的网页工具，用于沁恒 **CH32H417QEU6（QFN128）** 的引脚复用规划。作者：中北大学 Epoch 竞技机器人战队。
 
 在线使用：<https://funtaser.github.io/ch32h417-pins/> 。也可以下载 `index.html` 双击离线使用（单文件，无外部依赖）。
 
@@ -42,7 +42,7 @@
 
 ## 许可证
 
-Copyright (C) 2026 徐靖晨（Funtaser），中北大学 Epoch 竞技机器人战队
+Copyright (C) 2026 中北大学 Epoch 竞技机器人战队
 
 本项目以 [GNU 通用公共许可证第 3 版（GPL-3.0）](LICENSE) 发布。你可以自由使用、修改和再发布，但发布修改后的版本时，必须同样以 GPL-3.0 开源并保留版权声明。
 
